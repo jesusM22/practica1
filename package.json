@@ -1,0 +1,15 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practica de laboratorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/jesusM22/practica1.git"
+  },
+  "author": "Jesus",
+  "license": "ISC"
+}
